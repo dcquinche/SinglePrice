@@ -49,7 +49,7 @@ First we organized the HTML structure for the mobile design and we added the lay
 
 ```
  display: grid;
- grid-template-columns: repeat(3, 1fr);
+ grid-template-columns: repeat(2, 1fr);
 
 ```
 
