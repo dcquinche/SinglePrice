@@ -67,4 +67,4 @@ Diana Carolina Quinche Velez -
 
 ### Acknowledgments
 
-Special acknowledgments to Daniel Monsalve and Juan Lorza (team partners) and Cristian Moreno (our mentor in this project).
+Special acknowledgments to my team partners (Daniel Monsalve and Juan Lorza) and our mentor (Cristian Moreno).
