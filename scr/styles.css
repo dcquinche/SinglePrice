@@ -67,13 +67,19 @@ h4 {
 }
 
 @media (min-width: 1440px){
+    body {
+        min-height: 100vh;
+        align-items: center;
+        display: flex;
+        justify-content: center;
+    }
+
     #container2 {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
     }
 
     #main {
-        margin: 12em auto;
         width: 39%;
     }
 
